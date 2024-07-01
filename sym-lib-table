@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gofaster")(type "KiCad")(uri "${KIPRJMOD}/gofaster.kicad_sym")(options "")(descr ""))
+)
